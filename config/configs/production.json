@@ -1,0 +1,16 @@
+{
+    "isDev": "false",
+    "isProd": "true",
+    "host": "",
+    "contentUrl": "",
+    "port": "",
+    "base": "/",
+    "db": {
+        "user": "postgres",
+        "host": "localhost",
+        "database": "fitness",
+        "password": "postgres",
+        "port": "5432"
+    },
+    "sessionSecret": "Killer Is Jim"
+}
